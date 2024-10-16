@@ -42,6 +42,7 @@ The database consists of the following tables:
 ## Class Diagram
 ![Screenshot (84)](https://github.com/user-attachments/assets/48aef51a-6644-4dea-b37d-9574da82aec7)
 
+![Screenshot (88)](https://github.com/user-attachments/assets/0f56a81e-0ccb-4b2e-a103-a36457df523f)
 
 
 ## Getting Started
